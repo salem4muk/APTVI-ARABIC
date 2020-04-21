@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "406588955595",
+    "firebase_url": "https://aptvi-arabic-686bb.firebaseio.com",
+    "project_id": "aptvi-arabic-686bb",
+    "storage_bucket": "aptvi-arabic-686bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406588955595:android:d87b01170d23e0c728b44e",
+        "android_client_info": {
+          "package_name": "com.arabic.iptv.al.yous.sahed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406588955595-tpsfojmnrntfmss25gm4c9g1bbp5gbnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2wf6ili16VlVwJr78gADGJ_kV_lFMkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406588955595-tpsfojmnrntfmss25gm4c9g1bbp5gbnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406588955595:android:bd97df101e35d05928b44e",
+        "android_client_info": {
+          "package_name": "com.iptv.arabic.Aloon.yousef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406588955595-tpsfojmnrntfmss25gm4c9g1bbp5gbnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2wf6ili16VlVwJr78gADGJ_kV_lFMkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406588955595-tpsfojmnrntfmss25gm4c9g1bbp5gbnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406588955595:android:2a00826171e4efb828b44e",
+        "android_client_info": {
+          "package_name": "com.iptv.arabic.Aloon.yousef.aloon.tv.aloon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406588955595-8ooajm8tpe32lf635uvlkai51qp9r9ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iptv.arabic.Aloon.yousef.aloon.tv.aloon",
+            "certificate_hash": "5952637f464801b144c9532b3712f22920b63ce6"
+          }
+        },
+        {
+          "client_id": "406588955595-tpsfojmnrntfmss25gm4c9g1bbp5gbnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2wf6ili16VlVwJr78gADGJ_kV_lFMkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406588955595-tpsfojmnrntfmss25gm4c9g1bbp5gbnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">APTVI ARABIC</string>
+    <string name="channel_title">أسم القناة</string>
+    <string name="link_channel">رابط القناة</string>
+    <string name="submit">رفع</string>
+    <string name="title_activity_home">الرئيسية</string>
+    <string name="title_activity_add">أضافة قناة</string>
+    <string name="title_activity_list">قائمة القنوات</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nav_share">شارك التطبيق</string>
+    <string name="nav_rate">قيم التطبيق</string>
+    <string name="nav_send">تواصل معنا</string>
+    <string name="nav_close">خروج</string>
+
+    <string name="nav_facebook">تابعنا علي فيسبوك</string>
+    <string name="nav_about">حول المطور</string>
+    <string name="nav_more">المزيد من تطبيقاتي</string>
+    <string name="aboutapp">حول التطبيق</string>
+    <string name="Aboutdeveloper">حول المطور</string>
+</resources>
